@@ -3,7 +3,7 @@ Documentation of assembling and downstream analyses using Genotype-by-Sequencing
 
 # Quaternary diversification of a columnar cactus in the driest place on earth
 
-Here we document the assembly and analyses of double-digest Genotype-by-Sequencing (GBS) sequencing data for the Cactaceae *Eulychnia* Phil., a columnar cacti endemic to the Atacama Desert in northern Chile. The corresponding paper is published in the **American Journal of Botany** as follows:
+Here we document the assembly and analyses of double-digest Genotype-by-Sequencing (GBS) sequencing data for the Cactaceae *Eulychnia* Phil., a columnar cacti endemic to the Atacama Desert in northern Chile. The corresponding paper is published in **American Journal of Botany** as follows:
 
 **Merklinger FF**, **Böhnert T**, **Arakaki M**, **Weigend M**, **Quandt D** & **Luebert F** 2021. Quaternary diversiﬁcation of a columnar cactus in the driest place on earth. *American Journal of Botany* **108**: 184–199. [doi 10.1002/ajb2.1608](https://doi.org/10.1002/ajb2.1608)
 
